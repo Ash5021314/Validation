@@ -1,0 +1,28 @@
+.formClass {
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: fit-content
+}
+
+.formClass input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid;
+}
+
+.formClass input:focus {
+    outline: none;
+}
+
+.formClass input[type = submit] {
+    cursor: pointer;
+    background: cadetblue;
+    color: antiquewhite;
+}
+
+p {
+    margin-bottom: 0;
+}

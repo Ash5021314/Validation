@@ -8,5 +8,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="learn-react" />
+    <orderEntry type="module" module-name="github-fider" />
+    <orderEntry type="module" module-name="ash-tube" />
   </component>
 </module>
